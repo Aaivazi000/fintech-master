@@ -3,13 +3,16 @@
 Team Members: Andriana, Marin, Eddie, Shaf 
 
 Project detail: 
-Based on the S&P 500 Data from Feb 2013 to Feb 2018, the goal is to create a neural network that will accurately simulate the future performance of different sectors of the S&P 500.  
-
+Based on the S&P 500 Data from Feb 2013 to Feb 2018, the goal is to create a neural network that will accurately access risk and identify relationships among companies and sectors. 
 
 Forked repo locations: 
 
 Marin: https://github.com/themarinmuso/fintech-master
+
 Eddie: https://github.com/eddc1994/fintech-master 
+
+Andriana: https://github.com/Aaivazi000/fintech-master
+
 
 Data sources: 
 
