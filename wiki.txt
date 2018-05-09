@@ -1,1 +1,0 @@
-The master repo will hold a wiki documenting project meetings, decisions and individual team member work
