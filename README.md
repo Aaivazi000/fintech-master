@@ -3,7 +3,7 @@
 Team Members: Andriana, Marin, Eddie, Shaf 
 
 Project detail: 
-Based on the S&P 500 Data from Feb 2013 to Feb 2018, the goal is to create a neural network that will accurately access risk and identify relationships among companies and sectors. 
+Based on the S&P 500 Data, the goal of our project is to use General Adversarial Networks (GAN) to create permutations of the market which exhibit the traits of the real-world markets. Then we will create portfolios consisting of bots that will run various known strategies across the simulations to, ultimately, compare and contrast the performance of various market strategies.  
 
 Forked repo locations: 
 
