@@ -1,35 +1,3 @@
-Specific
-The “specific” section should be absolutely clear and specific. 
-
-Measurable
-The “measurable” absolutely must be something that can be shown in the repo
-as notebooks written, pages of documentation, python library code you commit,
-unit tests you write, or documentation you write. You can tell if this would be
-not be acceptable if it is the kind of thing somebody that could hide a lack of
-work. For example, if your measurement was merely a short summery of what
-you did, that would not be enough. Your measurement must be many lines
-of codes, complete orginal notebook with experimental results, many pages of
-documentaion (not copied from elsewere) and similar things. You will also write
-a summary of it, but that is, by itself, not evidence of having done work. Even if
-you honestly did work hard you must produce evidence because I simply cannot
-take your word.
-
-Actionable
-In the actionable/attainable part, you should justify why you can do it. If you
-need a data set you should state where you will get it. If you are going to use
-an algorithm you must specify which library and which algorithm. You should
-have a plan if something fails. You must explain enough so that it is clear to
-you and me that the risk of failure is relatively low.
-
-Relavant
-The Relevant part must tie your project back to the proposal and your proposal
-goals. This is critical, I will be evaluating if you have created tasks that move
-you closer to finishing your project at a reasonable pace or having created busy
-work that is just buying some time. 
-
-Timebound
-The time will usually be just due next week.
-
 SMART Goal #1
   This week I will be researching more about the structure of GAN and how the parameter works.
 I will be playing with our current S&P 500 market data and experiment with the GAN (may or may
@@ -49,4 +17,8 @@ This will be used to find patterns to be used into the GAN. This will help us ac
 be done by next week.
 
 SMART Goal #4
+  I will simulate a random walk graph that will mimic how a stock market will look like. This is a model that will
+be for testing and slowly built upon.
+
+Smart Goal #5
   
