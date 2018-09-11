@@ -25,7 +25,9 @@ Is it important to determine the way we will be evaluating strategies early on
 
 Next week. 
 
-2) Research how each metric will be used to compare strategies. 
+### S.M.A.R.T. Goal 2.
+
+- Implement metrics in Python code using S&P data. 
 
 3) Implement a function to measure annualized return and annualized volitility since we will be using these two metrics 
 to compare strategies. There will be code demonstrating this by next week on our placeholder S&P 500 dataset. 
