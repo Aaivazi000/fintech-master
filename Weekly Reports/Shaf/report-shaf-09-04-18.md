@@ -7,13 +7,23 @@ Date: 9/4/18
 
 #### S. Specific: 
 
-Research how each metric works - what are the properties of the stock that each metric considers and determine how to measure the properties. This goal is important because it is crucial to identify 
+Research how each metric works - what are the properties of the stock that each metric considers and determine how to measure the properties. This should be done as soon as possible. This goal is important because it is crucial to identify early just how and what we'll be evaluating our strategies on. 
 
-1) Research how each metric works - i.e., what are the properties of the stock that each metric considers and,
-if they are measurable properties, figure out how can we extract these properties from the data? Specificaly, for our data, for now until we 
-get our actual dataset, we will use the S&P 500 data to just determine how properties like volitility and mean return 
-can be determined for each stock. The result of this goal will be to find out the formulas associated with these properties 
-and document them so that we will know exactly what to look for, and how to look for it when we want to compute metrics on our real dataset. 
+#### M. Measurable: 
+
+There will be a doc folder, and also additions to the wiki outlining the different metrics researched this week - such as their definitions and how to calculate the metrics given stock data properties. We will be using the metrics in our project later on for evaluating strategies going forward. 
+
+#### A. Achievable: 
+
+This goal will just require research. The motivation of this goal will be to lay out how we will be evaluating strategies. 
+
+#### R. Relevant:
+
+Is it important to determine the way we will be evaluating strategies early on 
+
+#### T. Time-bound: 
+
+Next week. 
 
 2) Research how each metric will be used to compare strategies. 
 
