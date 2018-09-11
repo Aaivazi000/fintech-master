@@ -95,3 +95,9 @@ Fill in (next week)
 ## S.M.A.R.T. Goals (last week)
 
 List the smart goals you completed last week. First list the goal, and then list the locations of the commits or urls of the artificats promised in the smart goal that stand as evidence that what was goal was completed. If there is no such artificat (even if none was promised. This is a zero.)
+
+
+
+
+1) complete GAN for testing
+2) 
