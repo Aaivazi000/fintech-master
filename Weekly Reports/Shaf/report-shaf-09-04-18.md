@@ -1,5 +1,11 @@
 SMART Goals:
 
+Name: Sharfaraz Hassan 
+Date: 9/4/18 
+
+
+###S. Specific: 
+
 1) Research how each metric works - i.e., what are the properties of the stock that each metric considers and,
 if they are measurable properties, figure out how can we extract these properties from the data? Specificaly, for our data, for now until we 
 get our actual dataset, we will use the S&P 500 data to just determine how properties like volitility and mean return 
