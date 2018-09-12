@@ -14,76 +14,58 @@
 ### S.M.A.R.T. Goal 1.
 
 #### S. Specific: 
-(What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?)
-Fill in
+Write up a Literature Review on S&P 500 Trends and key characteristics. We need to know as much as we can about the index's performance because all the characteristics of the S&P 500 discovered must be found in our market simulations. There will be at the very least 5 reputable sources (online or printed) covering the topics below and any additional topics that are relevant:
+* Annual & Seasonal Trends in the S&P 500, Macroeconoic Factors that contribute to S&P 500 performance
+* Major historical events that affect the S&P 500 (elections, federal reserve meetings, etc)
+* Identify common statistical measures of indexes (volatility, etc) and how they are taken.
 
 #### M. Measurable: 
-(How can you measure progress and know if you’ve successfully met your goal?)
-Fill in (this should be crisp like implment a specific function, produce a notebook with certain graphs, etc. If it is not something
-obvious to me how I would grade success, partial sucess and failure, then you lose points.)
+The review must have at least 5 reputable sources, with as many published papers as possible.
 
 #### A. Achievable: 
-(Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?)
-Fill in
+The literature will utilize online resources including pulished papers and online articles (i.e investopedia). Published papers will be found using the CCNY databases, ACM libraries, and IEEE libraries.
 
 #### R. Relevant :
-(Why am I setting this goal now? Is it aligned with overall objectives like stretch goals?)
-Fill in
+The purpose of this research is to develop an understanding of key trends and qualities that are inherent to the S&P 500. This research will be used as the project continues to build the adversarial network in the GAN.
 
 
 #### T. Time-bound: 
-(What’s the deadline and is it realistic?)
-Fill in (next week)
+The deadline hard deadline for this goal is next week. However I would like to have it done by Thursday September 13th.
 
 ### S.M.A.R.T. Goal 2.
 
 #### S. Specific: 
-(What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?)
-Fill in
+Utilize S&P 500 data from last semester to take measurements (daily, monthly, etc) of the index. The specific measurements will include volatility and other common ways stock indexes are measured (details to be found after completing Goal #1). The measurements taken will be collected into a dataset that will be used as input to the GAN. The goal is to take 5-10 measurments across different time periods (daily, weekly, monthly, yearly, etc) and to do this for at least 2 other indexes (NYSE, NASDAQ, DOW, etc).
 
 #### M. Measurable: 
-(How can you measure progress and know if you’ve successfully met your goal?)
-Fill in (this should be crisp like implment a specific function, produce a notebook with certain graphs, etc. If it is not something
-obvious to me how I would grade success, partial sucess and failure, then you lose points.)
+The python notebook created will have taken 5-10 index measurements of at least 3 stock indexes, one of which is the S&P 500. Along with the python notebook there will be a dataset exported from the notebook that holds all the measurments for the various indexes.
 
 #### A. Achievable: 
-(Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?)
-Fill in
+Taking the measurments is possible because it will require simply Python skills and potentially the pandas library. This goal is also an opportunity to explore Quantlib, another library used for finanacial data that many have built-in functions that can be used to take the measurments of the different indexes.
 
 #### R. Relevant :
-(Why am I setting this goal now? Is it aligned with overall objectives like stretch goals?)
-Fill in
-
+Though this goal could be completed later on it is useful to take the time now to create additional datasets in advance, while we have the extra time. This dataset that will be made after completing this goal may be crucial inputs for both the generative and adversarial networks of our GAN. The point being if these measurments discover that S&P 500 volatility has never been greater than X then we need to ensure no market simulation we create will have a volatility greater than X. Hence we can train our GAN on this data.
 
 #### T. Time-bound: 
-(What’s the deadline and is it realistic?)
-Fill in (next week)
+The hard deadline for this goal is next week however I plan to have it completed by Friday September 14th.
 
-### S.M.A.R.T. Goal 3.
+### S.M.A.R.T. Goal 3: S&P 500 Feature Representation
 
 #### S. Specific: 
-(What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?)
-Fill in
+Continue further research on CNNs, specifically those that are used on stock market data. The goal of this research is to report on the various was our group can convert our S&P 500 stock data into images that can be used as an input to a CNN. The goal will have two parts, research and implementation. The research part will be a report that identifies and explain at least 3 ways we can transform our stock data into images. Ideally we want a way to layer different features (open, close, open-close, moving averages, etc) onto one image. For the implementation the goal is to take at least 2 of the methods and convert a portion of our stock data into images using this method. Some topics to explore are Fourier Transforms, spectograms, stock charts, and candlestick charts.
 
 #### M. Measurable: 
-(How can you measure progress and know if you’ve successfully met your goal?)
-Fill in (this should be crisp like implment a specific function, produce a notebook with certain graphs, etc. If it is not something
-obvious to me how I would grade success, partial sucess and failure, then you lose points.)
+The research part of the goal will produce a report identifying and explaining 3 ways to transform stock data into images. The implementation part will produce a python notebook that implements 2 of the methods found in the research report using S&P 500 data we have on hand. The implementation may use index data or company-specific data, each of which we have access to.
 
 #### A. Achievable: 
-(Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?)
-Fill in
+This goal is achievable since all the data required is available and I already have one method in which stock data was converted into an image and used in a CNN successfully (see GAN Resources Report on Github).
 
 #### R. Relevant :
-(Why am I setting this goal now? Is it aligned with overall objectives like stretch goals?)
-Fill in
-
+This goal is a continuation of research done in Week 1 (see GAN Resources Report on Github). In this report many of the sources used GANs on images and I believe it is worthwhile to continue with this idea to use CNNs in our GANs since there is a lot of literature available to rely on. Other group members are also exploring another path on how to use RNNs in our GAN.
 
 #### T. Time-bound: 
-(What’s the deadline and is it realistic?)
-Fill in (next week)
+The deadline for this goal is next week.
 
-### (you can add 2 more smart goals ... advisable)
 
 ## S.M.A.R.T. Goals (last week)
 
