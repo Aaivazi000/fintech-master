@@ -2,6 +2,12 @@
 
 ### The very beginning of weekly reports. There are no substantial goals or milestones to discuss, but there will be starting Week 2.
 
+## Stretch Goals:
+
+1. Establish a framework that can be used to measure the performance of the market and the performance of trading strategies. To do this, we can start by implementing well-known traditional strategies and applying well-known performance metrics on those strategies. These metrics will essentially serve as the basis for the framework to be used on new strategies in conjunction with the simulated market.
+
+2. Use a RNN (or series of RNNs) to build the architecture of the generative part of the GAN. This includes modifying the financial data (specifically open, high, low, close, and volume) to feed into this part of the GAN. These may be two separate goals, but are bunched together for now.
+
 ## Goals for Week 2:
 
 ### Coordinate with Professor Punit to get 50GB data:
