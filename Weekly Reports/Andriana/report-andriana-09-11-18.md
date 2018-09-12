@@ -5,7 +5,7 @@
 
 ## Stretch Goals (1-3)
 
-1. Fill in a stretch goal this are the big ideas that motivate your [part of the] project
+1. The ideal goal for this week is to be fully prepared to implement a CNN for next week. By the end of this week I want to understand how to implement a CNN from a research perspective and have a dataset of images (created from our S&P 500 data) that can be used for testing and training. If by next week I can implement a CNN on the images successfully, and show adequate results, then I can continue transforming more stock data into images and move forward with creating a CNN discriminator for the GAN (or at least a preliminary one).
 
 
 ## S.M.A.R.T. Goals (next week)
