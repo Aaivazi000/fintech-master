@@ -69,4 +69,5 @@ The deadline for this goal is next week.
 
 ## S.M.A.R.T. Goals (last week)
 
-1. 
+1. Identify a list of 5-10 online resources (youtube videos, blog posts, papers, etc) that walk through how people implemented a GAN and/or MLP. Post the list to a markdown file on Github.
+* The report can be found at this link: https://github.com/shaf712/fintech-master/tree/master/Andriana%20Workspace/Semester%202%20Week%201
