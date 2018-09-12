@@ -87,5 +87,5 @@ List the smart goals you completed last week. First list the goal, and then list
 2) SMART Goal #2, completed with breakdown, will need deeper analysis
 3) SMART Goal #4, simulation was completed with a graphical representation
 
-Each goal are labeled in the notebook.
+Each goal are labeled in the notebook. <br>
 Link for goal 1,2,4 is here : https://github.com/eddc1994/fintech-master/blob/master/Eddie%20workspace/Senior%20Design%202/Week%201.ipynb
