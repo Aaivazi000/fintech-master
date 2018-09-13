@@ -56,25 +56,19 @@ This will be done by next week.
 ### S.M.A.R.T. Goal 3.
 
 #### S. Specific: 
-(What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?)
-Fill in
+Improve the random walk model with extra functions that will allow for better testing on the GAN model.
 
 #### M. Measurable: 
-(How can you measure progress and know if you’ve successfully met your goal?)
-Fill in (this should be crisp like implment a specific function, produce a notebook with certain graphs, etc. If it is not something
-obvious to me how I would grade success, partial sucess and failure, then you lose points.)
+There will be improvements to make the model look more realistic than having just randomness.
 
 #### A. Achievable: 
-(Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?)
-Fill in
+This is doable because adding in extra functions is not too complex, but not too simple as well.
 
 #### R. Relevant :
-(Why am I setting this goal now? Is it aligned with overall objectives like stretch goals?)
-Fill in
+This will allow me to learn how to upkeep a model as well as improving standards for better testing purposes (espeically for my GAN models)
 
 #### T. Time-bound: 
-(What’s the deadline and is it realistic?)
-Fill in (next week)
+This will be done by next week.
 
 ### (you can add 2 more smart goals ... advisable)
 
