@@ -15,19 +15,19 @@
   - McClellan Summation Index
 - Price-based indicators
   - Average directional index
-    -Measures trend strength.
+    - Measures trend strength.
   - Commodity Channel Index
-    -Find cyclical trends
+    - Find cyclical trends
   - Momentum
-    - ■■the rate of price change.
+    - the rate of price change.
   - Relative strength index (RSI)
-    - ■■scillator showing price strength.
+    - oscillator showing price strength.
   - Relative Vigor Index (RVI)
-    - ■■measures the conviction of a recent price action and the likelihood that it will continue.
+    - measures the conviction of a recent price action and the likelihood that it will continue.
   - Stochastic oscillator
-    - ■■ close position within recent trading range.
+    - close position within recent trading range.
   - Trix
-    - ■■an oscillator showing the slope of a triple-smoothed exponential moving average
+    - an oscillator showing the slope of a triple-smoothed exponential moving average
 - Volume based Indicators
   - Accumulation/distribution index
   - Money Flow
