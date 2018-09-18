@@ -13,9 +13,9 @@ This document is a report on the S&amp;P 500 its characteristics and trends that
    - **C.** The S&amp;P is seen as the leading indicator of how well U.S equities (the value of the shares issued by a company) are doing AND how well the large-cap universe (companies with market capitalizations \&gt; $10 billion) is doing.
    
 2. If the S&amp;P 500 is mostly large-cap companies how is it a reflector of the market??
-  - **A.** S&amp;P is seen as the most accurate gauge of large cap US companies. It is considered a good reflector of the WHOLE market because contains companies spanning across a large range of industries.
-  - **B.** The index is frequently updated - on a quarterly basis.
-  - **C.** The index holds more companies. 500 compared to Dow&#39;s 30
+   - **A.** S&amp;P is seen as the most accurate gauge of large cap US companies. It is considered a good reflector of the WHOLE market because contains companies spanning across a large range of industries.
+   - **B.** The index is frequently updated - on a quarterly basis.
+   - **C.** The index holds more companies. 500 compared to Dow&#39;s 30
 
 # Trends &amp; Historical Patterns in the S&amp;P 500 (post 2008)
 
