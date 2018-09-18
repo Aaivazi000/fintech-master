@@ -21,18 +21,18 @@ This document is a report on the S&amp;P 500 its characteristics and trends that
 
 This sections reviews numerous published papers in and around the topic of understanding trends in the S&amp;P 500&#39;s returns and stock prices. For each source there is a brief summary and all sources are in the Google Drive or in the _Web Sources_ document.
 
-1. [Cost of Equity &amp; S&amp;P 500 Index Revisions](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ) (2012)
-  1. Summary:
-    1. The paper looks at the effects on companies when they are removed or added to the index. To study the effects they measure the change in cost of equity, liquitity, and shadow cost.
-      1. a)_Cost of Equity_ - in general it is the return one requires to decide if an investment meets capital return requirements. It represents the compensation the market demands in exchange for owing the asset and bearing the burden of ownership. Capital return is part of your original investment that you receive back and is not taxed.
-      2. b)_Liquidity_ - the degree to which an asset can be quickly bought or sold without affecting the asset&#39;s price.
-      3. c)_Shadow Cost -_ Monetary value assigned to costs that are unknown or difficult to calculate.
-  2. Results:
-    1. Data supports the liquidity (a-c) and investor awareness hypotheses (d-e)
-      1. a)Study proved that the cost of equity decreases when a firm is added and increases when a firm is removed. Found that liquidity increases for added stocks and decreases for deleted stocks. Also shadow cost increases for added stocks and remains constant for deleted stocks.
-      2. b)The change is cost of equity is explained by the increase in liquidity, decrease in shadow cost, and large firm size.
-      3. c)For deleted firms, leverage is the only significant determinant of the change is cost of equity. Neither changes in liquidity or shadow cost impact cost of equity.
-      4. d)When firms are added (aka inclusion events) the firm&#39;s whose cost of equity decreases have larger excess returns. And firms with a larger investment opportunity set may be more prepared to take advantage of the reduction in cost of equity experience by the newly added firms.
+1. [Cost of Equity &amp; S&amp;P 500 Index Revisions](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)(2012)
+   - Summary:
+      - The paper looks at the effects on companies when they are removed or added to the index. To study the effects they measure the change in cost of equity, liquitity, and shadow cost.
+         - _Cost of Equity_ - in general it is the return one requires to decide if an investment meets capital return requirements. It represents the compensation the market demands in exchange for owing the asset and bearing the burden of ownership. Capital return is part of your original investment that you receive back and is not taxed.
+         - _Liquidity_ - the degree to which an asset can be quickly bought or sold without affecting the asset&#39;s price.
+         - _Shadow Cost -_ Monetary value assigned to costs that are unknown or difficult to calculate.
+  - Results:
+      - Data supports the liquidity (a-c) and investor awareness hypotheses (d-e)
+         - Study proved that the cost of equity decreases when a firm is added and increases when a firm is removed. Found that liquidity increases for added stocks and decreases for deleted stocks. Also shadow cost increases for added stocks and remains constant for deleted stocks.
+         - The change is cost of equity is explained by the increase in liquidity, decrease in shadow cost, and large firm size.
+         - For deleted firms, leverage is the only significant determinant of the change is cost of equity. Neither changes in liquidity or shadow cost impact cost of equity.
+         - When firms are added (aka inclusion events) the firm&#39;s whose cost of equity decreases have larger excess returns. And firms with a larger investment opportunity set may be more prepared to take advantage of the reduction in cost of equity experience by the newly added firms.
 
 1. [Price Effects of Addition or Deletion from the S&amp;P 500 Index](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ) (2002)
   1. Note
