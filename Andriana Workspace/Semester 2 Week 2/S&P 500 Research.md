@@ -5,16 +5,17 @@ This document is a report on the S&amp;P 500 its characteristics and trends that
 **Foundational Information:**
 
 1. What is it?
-  1. **A.** S&amp;P 500 stands for the _Standard &amp; Poor&#39;s 500 Index_.
-  2. **B.**** DEF:** The S&amp;P 500 is an index of 505 stocks issued by 500 largest companies with market capitalizations (a company&#39;s stock price \* # of public stocks of that company held by shareholders, pretty much the total value of a company) of at least $6.1 billion. Public stocks are those not held by employees or governments.
-    1. What is an index?
-      1. a)An index is a sample of companies collected into a group, like a sample of a population. The population being all the companies on the stock market
-      2. b)Indexes are used to track the performance of all the companies within the index. So if the S&amp;P 500 index goes up by 1% that means the stocks that make up that index have increased by an AVERAGE of 1%. **Look at the index with a percent changes.**
-  3. **C.** The S&amp;P is seen as the leading indicator of how well U.S equities (the value of the shares issued by a company) are doing AND how well the large-cap universe (companies with market capitalizations \&gt; $10 billion) is doing.
+   - **A.** S&amp;P 500 stands for the _Standard &amp; Poor&#39;s 500 Index_.
+   - **B.**** DEF:** The S&amp;P 500 is an index of 505 stocks issued by 500 largest companies with market capitalizations (a company&#39;s stock price \* # of public stocks of that company held by shareholders, pretty much the total value of a company) of at least $6.1 billion. Public stocks are those not held by employees or governments.
+    - What is an index?
+      - An index is a sample of companies collected into a group, like a sample of a population. The population being all the companies on the stock market
+      - Indexes are used to track the performance of all the companies within the index. So if the S&amp;P 500 index goes up by 1% that means the stocks that make up that index have increased by an AVERAGE of 1%. **Look at the index with a percent changes.**
+   - **C.** The S&amp;P is seen as the leading indicator of how well U.S equities (the value of the shares issued by a company) are doing AND how well the large-cap universe (companies with market capitalizations \&gt; $10 billion) is doing.
+   
 2. If the S&amp;P 500 is mostly large-cap companies how is it a reflector of the market??
-  1. **A.** S&amp;P is seen as the most accurate gauge of large cap US companies. It is considered a good reflector of the WHOLE market because contains companies spanning across a large range of industries.
-  2. **B.** The index is frequently updated - on a quarterly basis.
-  3. **C.** The index holds more companies. 500 compared to Dow&#39;s 30
+  - **A.** S&amp;P is seen as the most accurate gauge of large cap US companies. It is considered a good reflector of the WHOLE market because contains companies spanning across a large range of industries.
+  - **B.** The index is frequently updated - on a quarterly basis.
+  - **C.** The index holds more companies. 500 compared to Dow&#39;s 30
 
 # Trends &amp; Historical Patterns in the S&amp;P 500 (post 2008)
 
