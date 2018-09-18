@@ -21,20 +21,20 @@ This document is a report on the S&amp;P 500 its characteristics and trends that
 
 This sections reviews numerous published papers in and around the topic of understanding trends in the S&amp;P 500&#39;s returns and stock prices. For each source there is a brief summary and all sources are in the Google Drive or in the _Web Sources_ document.
 
-1. [Cost of Equity &amp; S&amp;P 500 Index Revisions](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)(2012)
+3. [Cost of Equity &amp; S&amp;P 500 Index Revisions](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)(2012)
    - Summary:
       - The paper looks at the effects on companies when they are removed or added to the index. To study the effects they measure the change in cost of equity, liquitity, and shadow cost.
          - _Cost of Equity_ - in general it is the return one requires to decide if an investment meets capital return requirements. It represents the compensation the market demands in exchange for owing the asset and bearing the burden of ownership. Capital return is part of your original investment that you receive back and is not taxed.
          - _Liquidity_ - the degree to which an asset can be quickly bought or sold without affecting the asset&#39;s price.
          - _Shadow Cost -_ Monetary value assigned to costs that are unknown or difficult to calculate.
-  - Results:
+   - Results:
       - Data supports the liquidity (bullets 1-3) and investor awareness hypotheses (bullet 4)
          - Study proved that the cost of equity decreases when a firm is added and increases when a firm is removed. Found that liquidity increases for added stocks and decreases for deleted stocks. Also shadow cost increases for added stocks and remains constant for deleted stocks.
          - The change is cost of equity is explained by the increase in liquidity, decrease in shadow cost, and large firm size.
          - For deleted firms, leverage is the only significant determinant of the change is cost of equity. Neither changes in liquidity or shadow cost impact cost of equity.
          - When firms are added (aka inclusion events) the firm&#39;s whose cost of equity decreases have larger excess returns. And firms with a larger investment opportunity set may be more prepared to take advantage of the reduction in cost of equity experience by the newly added firms.
 
-1. [Price Effects of Addition or Deletion from the S&amp;P 500 Index](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ) (2002)
+4. [Price Effects of Addition or Deletion from the S&amp;P 500 Index](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ) (2002)
    - Note
       - Prior to 1989 the S&amp;P 500 would announce they would add or delete a stock from the index and do the addition/deletion after trading closed on a single day. Starting in 1989 they allow at least 1 week between the announcement and change date.
    - Summary
@@ -52,7 +52,7 @@ This sections reviews numerous published papers in and around the topic of under
          - Found a 10.15% decrease from open after AD to close of the same day. One can make positive returns from this event by shorting $1 on the open and covering at the close. This means they would buy $1 of the index and open and short $1 of the stock at close.
          - Found no price release and instead found a permanent price decrease of 10.13% which is related to lower overall demand for removed stock.
 
-1. [Day of Week Effects in pre-holiday returns of the S&amp;P 500](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ) (2005)
+5. [Day of Week Effects in pre-holiday returns of the S&amp;P 500](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ) (2005)
    - Summary
       - The study looked at the period of 1930-1999 S&amp;P 500 returns, specifically at day of week effects on pre-holiday returns.
    - Results
@@ -63,7 +63,7 @@ This sections reviews numerous published papers in and around the topic of under
       - Pre-1987, the pre-holiday effect was the fact that the returns on a day prior to a holiday in the S&amp;P 500 were considerably higher than the avg. rate of return on a normal trading day.
       - In Oct 19th, 1987 (Black Monday) it was the single largest one-day drop in stocks in history (DOW fell 22%). Pretty much everyone started selling their stocks and the sales led to more sales, which led to a market crash. The crash wasn&#39;t bad per se b/c markets bounced back within a year or so and exceeded their value.
 
-1. [Evidence of Long Memory in US Stock Returns: Case of 1990s Bubble](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)
+6. [Evidence of Long Memory in US Stock Returns: Case of 1990s Bubble](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)
    - Summary
       - _Long Memory_ - Long range dependence (LRD, or long-memory) is a phenomenon in time-series data. In time series data there should be a rate of decay in statistical dependence of two points as the distance (aka time) between those 2 points grows. Long memory is a phenomenon where the dependence between 2 points has a rate of decay that is slower than exponential decay.
       - The study looked at different stock market returns (NASDAQ, S&amp;P 500, and DOW) in two time periods, pre-1992 and during the bubble from 1992-2002. The 1992-2002 bubble is known for market exuberance.
@@ -72,7 +72,7 @@ This sections reviews numerous published papers in and around the topic of under
       - Using Lo&#39;s modified R/S analysis on NASDAQ, DIJIA, and S&amp;P 500 they found strong evidence of persistence in the bubble period or NASDAQ and S&amp;P 500.
       - They conclude that long-memory in stock data would affect the accuracy of inferences and forecasts based on traditional linear models with independence assumptions.
 
-1. [Volatility Dynamics for the S&amp;P 500: Evidence from Realized Volatility, Daily Volatility, Daily Returns, and Option Prices](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)
+7. [Volatility Dynamics for the S&amp;P 500: Evidence from Realized Volatility, Daily Volatility, Daily Returns, and Option Prices](https://drive.google.com/drive/folders/18qQxrdME_x11Yn6JCnk8i0-IAwuG7rgZ)
    - Summary
       - The study argues that most recent option valuation studies use an affine square root (SQR) stochastic volatility model and that this is a good choice because this model has closed-form solutions for option prices. The study investigates alternatives to the SQR model by comparing it&#39;s performance with 5 other models. They use 3 sources of data being realized volatilities, S&amp;P 500 returns, and option data.
    - Results
@@ -104,7 +104,7 @@ This sections reviews numerous published papers in and around the topic of under
       - **b)** Study shows complex info on the interaction between asset returns close to the macro announcement. HOWEVER they show little to no evidence in support of the notion that the arrival of macro news is accompanied by greater comovement among asset returns.
       - **c)** Return comovement within and across stock and bond markets MOST OFTEN decreases in correspondence with announcements, especially then the announcement is &quot;bad news&quot;.
 
-1. [US Stock Market &amp; Macroeconomic Factors](https://drive.google.com/drive/folders/1oNHtbMi3LoU7k60P9CTbdzoxSn9LDpyW) (2016)
+2. [US Stock Market &amp; Macroeconomic Factors](https://drive.google.com/drive/folders/1oNHtbMi3LoU7k60P9CTbdzoxSn9LDpyW) (2016)
    - Summary
       - The study analyzes for relationships between the US stock market and the following macro factors: gross domestic product (value of all goods and services produced in the US), consumer price index (used as an index and to calculate inflation rate), industrial production index (cyclical indicator that measures the activity of industrial sector, not construction), unemployment rate, and long-term interest rates. All factors show relationships between with the market. **The study looks at the DOW in time period from Jan 2008 to April 2014, rather than the S&amp;P 500 but the insights are helpful.**
    - Results
@@ -122,7 +122,7 @@ This sections reviews numerous published papers in and around the topic of under
          - **a)** **P = -.46**
          - **b)** **Look at the graph for DOW and unemployment rates.**
 
-1. Stock Prices and Oil Prices
+3. Stock Prices and Oil Prices
    - Source 1: [Common Cycles and Common Trends in the stock and oil markets](https://drive.google.com/drive/folders/1oNHtbMi3LoU7k60P9CTbdzoxSn9LDpyW) (2015)
       - The study looks at 150 years of data between West Texas Intermediate oil price and the S&amp;P 500 (1859 - 2015). The study was to analyze long and short run comovement properties of the two and to see the impacts of transitory and permanent shocks on the two.
    - Source 2: [The Impact of Oil Price Shocks on the US Stock Market](https://drive.google.com/drive/folders/1oNHtbMi3LoU7k60P9CTbdzoxSn9LDpyW) (2009)
